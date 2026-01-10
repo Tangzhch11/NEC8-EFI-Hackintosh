@@ -13,7 +13,3 @@
 整个安装过程以及后续调试用到的工具（自行搜索下载相关教程）
 
 <img width="716" height="222" alt="截屏2026-01-10 16 37 30" src="https://github.com/user-attachments/assets/938a71ee-fc1e-44c5-a1c9-9a10f8a79417" />
-
-<img width="667" height="335" alt="截屏2026-01-10 16 46 33" src="https://github.com/user-attachments/assets/45d8ed82-7312-4ff8-b06c-bda4c70d4424" />
-
-<img width="1920" height="1080" alt="截屏2026-01-10 16 44 19" src="https://github.com/user-attachments/assets/bfb790a2-add5-4a7f-973b-fd282c2aee44" />
