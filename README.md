@@ -13,3 +13,7 @@
 整个安装过程以及后续调试用到的工具（自行搜索下载相关教程）
 
 <img width="716" height="222" alt="截屏2026-01-10 16 37 30" src="https://github.com/user-attachments/assets/938a71ee-fc1e-44c5-a1c9-9a10f8a79417" />
+
+<img width="464" height="265" alt="截屏2026-01-31 02 51 14" src="https://github.com/user-attachments/assets/69d0f821-5324-48e2-b26d-2cae31d4f05f" />
+
+sequoia15 原生inter Wi-Fi驱动正常 单向隔空投送
