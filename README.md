@@ -1,4 +1,4 @@
-# NEC8-OpenCore-EFI 
+# NEC8黑苹果-OpenCore-EFI 
 
 配置：i3-8100T+核显UHD630+内存8G+8265无线网卡
 
